@@ -1,7 +1,3 @@
-from re import X
-from tkinter import Y
-
-
 i = 4
 d = 4.0
 s = 'HackerRank '
