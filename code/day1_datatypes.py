@@ -1,6 +1,7 @@
+# Defining initial values
 i = 4
 d = 4.0
-s = 'HackerRank '
+s = 'HackerRank'
 # Read and save an integer, double, and String to your variables.
 x=int(input())
 y= float(input())

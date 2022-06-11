@@ -4,8 +4,6 @@ import random
 import re
 import sys
 
-i=1
-
 if __name__ == '__main__':
     N = int(input().strip())
     if N%2 != 0:

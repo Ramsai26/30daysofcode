@@ -18,6 +18,7 @@ class Person:
         # Increment the age of the person in here
         self.age += 1
 
+# categorising the persons generation across the year passes
 t = int(input())
 for i in range(0, t):
     age = int(input())         
