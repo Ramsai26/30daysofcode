@@ -8,4 +8,4 @@ I hope if you are stuck these answers might help you
 
 
 ## Hello | Day 1
-Check out the code from [here]().
+Check out the code from [here](https://github.com/Ramsai26/30daysofcode-HackerRank.py/tree/main/code).
